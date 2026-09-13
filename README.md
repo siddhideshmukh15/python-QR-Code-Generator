@@ -22,6 +22,4 @@ A simple Python project that generates a QR code from any text or URL and saves 
 * File handling
 * Saving files
 
-## Author
 
-**Siddhi Deshmukh**
